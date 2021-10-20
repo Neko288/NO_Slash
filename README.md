@@ -7,6 +7,6 @@ WindowsのパスをPythonで書くと「\」のせいでエラーになる。そ
 <h4>使い方</h4>
 <p>ファイル(.pyw)をダブルクリックすると起動します。pywなのでpythonのコンソールウィンドウは表示されません。表示したかったらファイルの名前を「.pyw」から「.py」に変えてください。</p>
 
-<p>windowsのスタートアップに登録すれば、もっと便利になります。スタートアップフォルダーは</p>
-<p>C:/Users/ユーザー名/AppData/Roaming/Microsoft/Windows/Start Menu/Programs/Startup</p>
-<p>にあります。そこにショートカットでもコピーでもを追加してください。</p>
+<p>windowsのスタートアップに登録すれば、もっと便利になります。スタートアップフォルダーは</br>
+C:/Users/ユーザー名/AppData/Roaming/Microsoft/Windows/Start Menu/Programs/Startup</br>
+にあります。そこにショートカットでもコピーでもを追加してください。</p>
