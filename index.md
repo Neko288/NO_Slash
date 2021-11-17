@@ -1,11 +1,12 @@
-## Welcome to GitHub Pages
+# NO_Slash
+<h1>\を/に置換(変換)します</h1>
+WindowsのパスをPythonで書くと「\」のせいでエラーになる。その対策用。
 
-You can use the [editor on GitHub](https://github.com/Neko288/NO_Slash/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+クリップボードに「\」(エラーが起こるほうのスラッシュ)があったら、自動で「/」(問題ないほうのスラッシュ)に変換します。
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<h2>使い方</h2>
+<p>ファイル(.pyw)をダブルクリックすると起動します。pywなのでpythonのコンソールウィンドウは表示されません。表示したかったらファイルの名前を「.pyw」から「.py」に変えてください。</p>
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-
+<p>windowsのスタートアップに登録すれば、もっと便利になります。スタートアップフォルダーは</br>
+C:/Users/ユーザー名/AppData/Roaming/Microsoft/Windows/Start Menu/Programs/Startup</br>
+にあります。そこにショートカットでもコピーでもを追加してください。</p>
